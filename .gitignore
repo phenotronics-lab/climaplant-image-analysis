@@ -1,0 +1,10 @@
+data/
+models/
+results/
+runs/
+__pycache__/
+*.pyc
+*.cache
+*.pt
+*.pth
+.spyproject/

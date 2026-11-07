@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "CLIMAPLANT image analysis"
+abstract: "Rosette segmentation, leaf tracking and multimodal registration for the CLIMAPLANT plant phenotyping chamber."
+type: software
+authors:
+  - name: "Anonymous authors"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-07"
+keywords:
+  - plant phenotyping
+  - Arabidopsis thaliana
+  - image segmentation
+  - leaf tracking
+  - image registration
