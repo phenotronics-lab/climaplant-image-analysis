@@ -7,7 +7,7 @@ Arabidopsis thaliana with chlorophyll fluorescence, thermal infrared and RGB ima
   registration of the masks onto the RGB and infrared images
 - `training/`: training and evaluation of the two models
 
-Data and model weights after acceptation : https://doi.org/10.5281/zenodo.24038899 (active after publication).
+Data and model weights : https://doi.org/10.5281/zenodo.24038899 (active after publication).
 
 ## Installation
 
